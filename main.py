@@ -31,4 +31,4 @@ pd.DataFrame(data=(dict1, dict2))
 dict1 = {'name1':list(range(10)), 'name2':list(range(10,20))}
 pd.DataFrame(data=(dict1))
 # %%
-data = pd.read_csv('abc.txt',)
+data = pd.read_csv('abc.txt')
